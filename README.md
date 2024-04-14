@@ -126,6 +126,20 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
       </td>
       <td>
+        Perompak7Samudra
+      </td>
+      <td>
+        scraping data film beserta link stream dan downloadnya
+      </td>
+      <td>
+        https://github.com/bagusindrayana/perompak7samudra
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+      </td>
+      <td>
         Bot Film Telegram
       </td>
       <td>
