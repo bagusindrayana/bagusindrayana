@@ -199,6 +199,20 @@
         https://github.com/bagusindrayana/mabox-cli
       </td>
     </tr>
+     <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+      </td>
+      <td>
+        Scraping stream cctv jalanan indonesia
+      </td>
+      <td>
+        rest API untuk scraping streaming cctv yang tersedia dari web pemerintah indonesia
+      </td>
+      <td>
+        https://github.com/bagusindrayana/scrape-cctv-gov-id
+      </td>
+    </tr>
     <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -212,21 +226,6 @@
       </td>
       <td>
         https://github.com/bagusindrayana/scraping-berita
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-      </td>
-      <td>
-        Scraping stream cctv jalanan indonesia
-      </td>
-      <td>
-        rest API untuk scraping streaming cctv yang tersedia dari web pemerintah indonesia
-      </td>
-      <td>
-        https://github.com/bagusindrayana/scrape-cctv-gov-id
       </td>
     </tr>
     <tr>
