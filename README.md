@@ -216,6 +216,21 @@
     </tr>
     <tr>
       <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+      </td>
+      <td>
+        Scraping stream cctv jalanan indonesia
+      </td>
+      <td>
+        rest API untuk scraping streaming cctv yang tersedia dari web pemerintah indonesia
+      </td>
+      <td>
+        https://github.com/bagusindrayana/scrape-cctv-gov-id
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
