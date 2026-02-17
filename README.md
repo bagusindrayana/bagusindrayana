@@ -1,327 +1,38 @@
-<h2 align="left">Hi 👋! My name is Bagus Indrayana and I'm a Fullstack Developer, from Indonesia </h2>
+# Hi there, I'm Bagus Indrayana! 👋
 
-###
+I'm a passionate Full Stack Developer dedicated to crafting innovative web solutions and bringing ideas to life through code. With a strong foundation in both frontend and backend technologies, I enjoy building robust, scalable, and user-friendly applications. I'm always eager to learn new technologies and improve my skills to deliver high-quality software.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagusindrayana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusindrayana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
+## 🛠️ Skills & Technologies
 
+| Category      | Technologies                                                                                                                                                                                                                                                                       |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**  | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend**   | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)                                                                                                                                                                 |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                                                                                                                                               |
+| **Tools**     | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| **Concepts**  | PWA, Responsive Design, API Development, UI/UX, Real-time Data                                                                                                                                                                                                                                                             |
 
-###
-<h3 align="left">Stack </h3>
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th>
-        Platform
-      </th>
-      <th>
-        Stack/Tech
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        WEB
-      </td>
-      <td>
-        <div align="left">  
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        MOBILE
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        DATABASE
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"  />
-      </td>
-    </tr>
-  </tbody>
-</table>
+---
 
-###
-<h3 align="left">Personal Project </h3>
-<table>
-  <thead>
-    <tr>
-      <th>
-        Stack
-      </th>
-      <th>
-        Name
-      </th>
-      <th>
-        Description
-      </th>
-      <th>
-        Repo/Link
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-      </td>
-      <td>
-        TERTULAR
-      </td>
-      <td>
-        Sistem informasi berbasis web untuk pendataan dan pemetaan lokasi pasien positif covid-19/virus corona
-      </td>
-      <td>
-        https://github.com/bagusindrayana/tertular
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-      </td>
-      <td>
-        GOBLOG
-      </td>
-      <td>
-        Simple Blog System With Laravel
-      </td>
-      <td>
-        https://github.com/bagusindrayana/goblog
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-      </td>
-      <td>
-        LARAVEL-COORDINATE (package)
-      </td>
-      <td>
-        find data with the closest location based on its coordinates with eloquent laravel
-      </td>
-      <td>
-        https://github.com/bagusindrayana/goblog
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-      </td>
-      <td>
-        SCAN-GACOR
-      </td>
-      <td>
-        scan file php dan html dengan wordlist tertentu
-      </td>
-      <td>
-        https://github.com/bagusindrayana/scan-gacor.git
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-      </td>
-      <td>
-        Perompak7Samudra
-      </td>
-      <td>
-        scraping data film beserta link stream dan downloadnya
-      </td>
-      <td>
-        https://github.com/bagusindrayana/perompak7samudra
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-      </td>
-      <td>
-        Bot Film Telegram
-      </td>
-      <td>
-        Bot Telegram untuk mencari link stream film
-      </td>
-      <td>
-        https://github.com/bagusindrayana/telegram-bot-film
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-      </td>
-      <td>
-        MABOX-CLI
-      </td>
-      <td>
-        convert web to stupid CLI
-      </td>
-      <td>
-        https://github.com/bagusindrayana/mabox-cli
-      </td>
-    </tr>
-     <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-      </td>
-      <td>
-        Scraping stream cctv jalanan indonesia
-      </td>
-      <td>
-        rest API untuk scraping streaming cctv yang tersedia dari web pemerintah indonesia
-      </td>
-      <td>
-        https://github.com/bagusindrayana/scrape-cctv-gov-id
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-      </td>
-      <td>
-        Scraping berita indonesia
-      </td>
-      <td>
-        rest API untuk scraping berita dari beberapa portal berita indonesia
-      </td>
-      <td>
-        https://github.com/bagusindrayana/scraping-berita
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-      </td>
-      <td>
-        Isometric Web
-      </td>
-      <td>
-        Desain Web 3D isometric
-      </td>
-      <td>
-        https://github.com/bagusindrayana/isometric-web
-        https://isometric-web.netlify.app
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-      </td>
-      <td>
-        Infografis Covid19
-      </td>
-      <td>
-        Web Infografis jumlah korban covid 19
-      </td>
-      <td>
-        https://github.com/bagusindrayana/covid19
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-      </td>
-      <td>
-        scrollpage-js
-      </td>
-      <td>
-        Single full page scroll animation inspired by fullPage JS
-      </td>
-      <td>
-        https://github.com/bagusindrayana/scrollpage-js
-        https://scrollpage-js.netlify.app
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-      </td>
-      <td>
-        go-api-wilayah
-      </td>
-      <td>
-        Single full page scroll animation inspired by fullPage JS
-      </td>
-      <td>
-        https://github.com/bagusindrayana/go-api-wilayah
-        https://4f6kku51q0.apidog.io
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-      </td>
-      <td>
-        Extract APK Data
-      </td>
-      <td>
-        extract and view data inside APK file in browser client
-      </td>
-      <td>
-        https://github.com/bagusindrayana/extract-apk-web
-        https://extract-apk.vercel.app
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-      </td>
-      <td>
-        ews-concept
-      </td>
-      <td>
-        EWS (Early Warning System) Design Concept - Nerv APP or neon genesis Evangelion
-      </td>
-      <td>
-        https://github.com/bagusindrayana/ews-concept
-        https://ews-concept.vercel.app
-      </td>
-    </tr>
-  </tbody>
-</table>
+## ✨ Featured Projects
+
+| Project                                                                                                                  | Description                                                                                                                                                                                                                                          | Key Technologies                                                                                                                                                                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🔗 [**roastgithub**](https://github.com/bagusindrayana/roastgithub) & [**roastgithub-api**](https://github.com/bagusindrayana/roastgithub-api) | A full-stack application for roasting GitHub profiles. The frontend provides a user interface to interact with a backend API that processes and generates "roasts."                                                                                   | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| 🔗 [**videobarber**](https://github.com/bagusindrayana/videobarber)                                                      | An online video trimmer web application that processes videos directly in the browser using FFmpeg WASM, offering features like video upload, timeline trimming, and frame preview.                                                                      | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| 🔗 [**ews-concept**](https://github.com/bagusindrayana/ews-concept)                                                      | An Early Warning System (EWS) design concept for natural disasters like earthquakes and tsunamis, featuring UI concepts, real-time information display, and geographical data visualization.                                                              | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| 🔗 [**extract-apk-web**](https://github.com/bagusindrayana/extract-apk-web)                                              | A web-based tool to extract and view data and information from APK files directly in the browser, including manifest details, icons, permissions, and internal URLs.                                                                                 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| 🔗 [**tertular**](https://github.com/bagusindrayana/tertular)                                                            | A web-based information system for recording and mapping COVID-19/Corona Virus patient data, built with the Laravel framework, showcasing full-stack capabilities in data management and visualization.                                                | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| 🔗 [**goblog**](https://github.com/bagusindrayana/goblog)                                                               | A simple blog system developed with Laravel, featuring a Gutenberg-like editor, page builder, and menu manager, demonstrating content management system development.                                                                               | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| 🔗 [**laravel-coordinate**](https://github.com/bagusindrayana/laravel-coordinate)                                        | A Laravel package designed to find data with the closest location based on its coordinates, leveraging Eloquent for efficient database queries.                                                                                                    | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                                                                                   |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=bagusindrayana&show_icons=true&theme=radical&hide_border=true" alt="Bagus Indrayana's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusindrayana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
